@@ -1,0 +1,5 @@
+F:/workspace/github/ChatClient/cmake-build-debug-mingw_qt6/CMakeFiles/ChatClient.dir
+F:/workspace/github/ChatClient/cmake-build-debug-mingw_qt6/CMakeFiles/edit_cache.dir
+F:/workspace/github/ChatClient/cmake-build-debug-mingw_qt6/CMakeFiles/rebuild_cache.dir
+F:/workspace/github/ChatClient/cmake-build-debug-mingw_qt6/CMakeFiles/ChatClient_autogen_timestamp_deps.dir
+F:/workspace/github/ChatClient/cmake-build-debug-mingw_qt6/CMakeFiles/ChatClient_autogen.dir
