@@ -1,0 +1,2 @@
+"E:\Program Files\CLion\bin\mingw\bin\ar.exe" qc libutility_lib.a CMakeFiles/utility_lib.dir/utility_lib_autogen/mocs_compilation.cpp.obj CMakeFiles/utility_lib.dir/sources/myapp.cpp.obj CMakeFiles/utility_lib.dir/sources/iteminfo.cpp.obj CMakeFiles/utility_lib.dir/sources/usercell.cpp.obj
+"E:\Program Files\CLion\bin\mingw\bin\ranlib.exe" libutility_lib.a

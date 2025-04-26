@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"DataBase/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "database_lib_autogen_timestamp_deps::@a476e4c40090e0fb63c3",
+	"isGeneratorProvided" : true,
+	"name" : "database_lib_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "DataBase",
+		"source" : "DataBase"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

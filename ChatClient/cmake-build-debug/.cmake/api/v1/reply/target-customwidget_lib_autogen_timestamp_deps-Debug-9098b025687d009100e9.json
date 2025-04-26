@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"CustomWidget/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "customwidget_lib_autogen_timestamp_deps::@1e951a4a3bce1f5e926e",
+	"isGeneratorProvided" : true,
+	"name" : "customwidget_lib_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "CustomWidget",
+		"source" : "CustomWidget"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

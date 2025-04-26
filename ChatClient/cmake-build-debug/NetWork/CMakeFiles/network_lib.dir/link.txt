@@ -1,0 +1,2 @@
+"E:\Program Files\CLion\bin\mingw\bin\ar.exe" qc libnetwork_lib.a CMakeFiles/network_lib.dir/network_lib_autogen/mocs_compilation.cpp.obj CMakeFiles/network_lib.dir/sources/clientsocket.cpp.obj
+"E:\Program Files\CLion\bin\mingw\bin\ranlib.exe" libnetwork_lib.a

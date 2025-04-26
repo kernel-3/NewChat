@@ -1,0 +1,11 @@
+# ninja log v6
+6	360	7669574740140531	ChatClient_autogen/timestamp	96a01db1f0466830
+2	491	7669577751481801	build.ninja	ddc335ee0bc5dc90
+6	360	7669574740140531	F:/workspace/github/Qt/ChatClient/cmake-build-debug/ChatClient_autogen/timestamp	96a01db1f0466830
+141	1342	7669555455237281	CMakeFiles/ChatClient.dir/main.cpp.obj	812f78751c47ad21
+6	360	7669574740140531	ChatClient_autogen/mocs_compilation.cpp	96a01db1f0466830
+360	1647	7669574740584479	CMakeFiles/ChatClient.dir/ChatClient_autogen/mocs_compilation.cpp.obj	98b7001a6a26a8a5
+353	1630	7669573726157358	CMakeFiles/ChatClient.dir/mainwindow.cpp.obj	fdc91bf861384c6f
+6	360	7669574740140531	F:/workspace/github/Qt/ChatClient/cmake-build-debug/ChatClient_autogen/mocs_compilation.cpp	96a01db1f0466830
+1702	2026	7669574754000810	ChatClient.exe	1547762a58433d92
+364	1702	7669574740624567	CMakeFiles/ChatClient.dir/logindialog.cpp.obj	d2cb370e43ed11d2
