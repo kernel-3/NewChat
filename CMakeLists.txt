@@ -20,49 +20,35 @@ find_package(Qt6 COMPONENTS
         Sql
         REQUIRED)
 
+# 添加所有子模块
+add_subdirectory(Utility)
+add_subdirectory(CustomWidget)
+add_subdirectory(Network)
+add_subdirectory(DataBase)
+add_subdirectory(WeChat)
+
+#include_directories(
+#        ${CMAKE_SOURCE_DIR}/Utility/headers  # 让 "../Utility/myapp.h" 指向这里
+#)
+
 # 添加可执行文件（包含资源文件）
 add_executable(ChatClient
         main.cpp
-        WeChat/mainwindow.cpp
-        WeChat/mainwindow.h
-        Utility/global.h
-        WeChat/logindialog.cpp
-        WeChat/logindialog.h
-        CustomWidget/rotatingstackedwidget.cpp
-        CustomWidget/rotatingstackedwidget.h
         resources.qrc
-        NetWork/clientsocket.cpp
-        NetWork/clientsocket.h
-        Utility/myapp.cpp
-        Utility/myapp.h
-        CustomWidget/basewidget.cpp
-        CustomWidget/basewidget.h
-        Utility/unit.h
-        WeChat/chatwindow.cpp
-        WeChat/chatwindow.h
-        CustomWidget/animationstackedwidget.cpp
-        CustomWidget/animationstackedwidget.h
-        DataBase/databasemgr.cpp
-        DataBase/databasemgr.h
-        Utility/iteminfo.cpp
-        Utility/iteminfo.h
-        Utility/usercell.cpp
-        Utility/usercell.h
-        CustomWidget/contactlistitem.cpp
-        CustomWidget/contactlistitem.h
-        CustomWidget/contactlist.cpp
-        CustomWidget/contactlist.h
-        CustomWidget/contactheaderwidget.cpp
-        CustomWidget/contactheaderwidget.h
 )
 
 # 链接 Qt 模块
 target_link_libraries(ChatClient
-        Qt::Core
-        Qt::Gui
-        Qt::Widgets
-        Qt::Network
-        Qt::Sql
+        database_lib
+        utility_lib
+        customwidget_lib
+        network_lib
+        wechat_lib
+        Qt6::Core
+        Qt6::Gui
+        Qt6::Widgets
+        Qt6::Network
+        Qt6::Sql
 )
 
 # Windows 部署配置

@@ -299,6 +299,24 @@ ChatClient_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 ChatClient_SOURCE_DIR:STATIC=F:/workspace/github/ChatClient
 
+//Value Computed by CMake
+DataBase_BINARY_DIR:STATIC=F:/workspace/github/ChatClient/cmake-build-debug-mingw_qt6/DataBase
+
+//Value Computed by CMake
+DataBase_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+DataBase_SOURCE_DIR:STATIC=F:/workspace/github/ChatClient/DataBase
+
+//Value Computed by CMake
+Network_BINARY_DIR:STATIC=F:/workspace/github/ChatClient/cmake-build-debug-mingw_qt6/NetWork
+
+//Value Computed by CMake
+Network_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+Network_SOURCE_DIR:STATIC=F:/workspace/github/ChatClient/NetWork
+
 //Additional directories where find(Qt6 ...) host Qt components
 // are searched
 QT_ADDITIONAL_HOST_PACKAGES_PREFIX_PATH:STRING=
@@ -368,6 +386,15 @@ Vulkan_LIBRARY:FILEPATH=Vulkan_LIBRARY-NOTFOUND
 
 //Path to a program.
 WINDEPLOYQT_EXECUTABLE:FILEPATH=D:/programfiles/Qt/Qt6/6.10.0/mingw_64/bin/windeployqt.exe
+
+//Value Computed by CMake
+WeChat_BINARY_DIR:STATIC=F:/workspace/github/ChatClient/cmake-build-debug-mingw_qt6/WeChat
+
+//Value Computed by CMake
+WeChat_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+WeChat_SOURCE_DIR:STATIC=F:/workspace/github/ChatClient/WeChat
 
 
 ########################
@@ -506,7 +533,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=1
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=6
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

@@ -493,10 +493,10 @@ F:/workspace/github/ChatClient/cmake-build-debug-mingw_qt6/ChatClient_autogen/ZG
   D:/programfiles/Qt/Qt6/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h \
   D:/programfiles/Qt/Qt6/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
   D:/programfiles/Qt/Qt6/Tools/mingw1310_64/x86_64-w64-mingw32/include/wctype.h \
-  F:/workspace/github/ChatClient/CustomWidget/animationstackedwidget.h \
-  F:/workspace/github/ChatClient/CustomWidget/basewidget.h \
-  F:/workspace/github/ChatClient/CustomWidget/contactheaderwidget.h \
-  F:/workspace/github/ChatClient/CustomWidget/contactlist.h \
-  F:/workspace/github/ChatClient/CustomWidget/contactlistitem.h \
+  F:/workspace/github/ChatClient/CustomWidget/headers/animationstackedwidget.h \
+  F:/workspace/github/ChatClient/CustomWidget/headers/basewidget.h \
+  F:/workspace/github/ChatClient/CustomWidget/headers/contactheaderwidget.h \
+  F:/workspace/github/ChatClient/CustomWidget/headers/contactlist.h \
+  F:/workspace/github/ChatClient/CustomWidget/headers/contactlistitem.h \
   F:/workspace/github/ChatClient/NetWork/clientsocket.h \
   F:/workspace/github/ChatClient/WeChat/chatwindow.h

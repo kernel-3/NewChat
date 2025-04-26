@@ -1,9 +1,16 @@
+// #ifdef __linux__
+// #pragma message ("当前头文件搜索路径: " __FILE__)
+// #else
+// #pragma message ("当前头文件搜索路径: " __FILE__)
+// #endif
+
+
 #include <QApplication>
-#include <QApplication>
-#include "./WeChat/logindialog.h"
-#include "./Utility/global.h"
-#include "./DataBase/databasemgr.h"
-#include "./Utility/myapp.h"
+#include <QSqlDatabase>
+#include "./WeChat//headers/logindialog.h"
+#include "Utility/headers/global.h"
+#include "./DataBase//headers/databasemgr.h"
+#include "Utility/headers/myapp.h"
 
 int main(int argc, char *argv[]) {
     QApplication a(argc, argv);
