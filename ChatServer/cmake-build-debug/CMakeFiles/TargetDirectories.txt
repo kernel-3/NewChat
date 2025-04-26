@@ -1,0 +1,5 @@
+F:/workspace/github/NewChat/ChatServer/cmake-build-debug/CMakeFiles/ChatServer.dir
+F:/workspace/github/NewChat/ChatServer/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/workspace/github/NewChat/ChatServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+F:/workspace/github/NewChat/ChatServer/cmake-build-debug/CMakeFiles/ChatServer_autogen_timestamp_deps.dir
+F:/workspace/github/NewChat/ChatServer/cmake-build-debug/CMakeFiles/ChatServer_autogen.dir

@@ -1,0 +1,14 @@
+# ninja log v6
+3	258	7673445052494672	ChatServer_autogen/timestamp	e9c51eee3410afed
+3	258	7673445052494672	ChatServer_autogen/mocs_compilation.cpp	e9c51eee3410afed
+3	258	7673445052494672	F:/workspace/github/NewChat/ChatServer/cmake-build-debug/ChatServer_autogen/timestamp	e9c51eee3410afed
+3	258	7673445052494672	F:/workspace/github/NewChat/ChatServer/cmake-build-debug/ChatServer_autogen/mocs_compilation.cpp	e9c51eee3410afed
+262	371	7673445053097094	CMakeFiles/ChatServer.dir/ChatServer_autogen/mocs_compilation.cpp.obj	ebb461fccb6dac0
+266	2491	7673445053142110	CMakeFiles/ChatServer.dir/main.cpp.obj	d1b07d5e0b5123db
+2493	2917	7673445075409271	ChatServer.exe	18d8a303ad0f19b2
+6	131	7673445159035600	ChatServer_autogen/timestamp	e9c51eee3410afed
+6	131	7673445159035600	ChatServer_autogen/mocs_compilation.cpp	e9c51eee3410afed
+6	131	7673445159035600	F:/workspace/github/NewChat/ChatServer/cmake-build-debug/ChatServer_autogen/timestamp	e9c51eee3410afed
+6	131	7673445159035600	F:/workspace/github/NewChat/ChatServer/cmake-build-debug/ChatServer_autogen/mocs_compilation.cpp	e9c51eee3410afed
+133	1473	7673445160303589	CMakeFiles/ChatServer.dir/main.cpp.obj	d1b07d5e0b5123db
+1473	1895	7673445173709411	ChatServer.exe	18d8a303ad0f19b2

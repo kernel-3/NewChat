@@ -1,5 +1,0 @@
-F:/workspace/github/Qt/ChatClient/cmake-build-debug/CMakeFiles/ChatClient.dir
-F:/workspace/github/Qt/ChatClient/cmake-build-debug/CMakeFiles/edit_cache.dir
-F:/workspace/github/Qt/ChatClient/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-F:/workspace/github/Qt/ChatClient/cmake-build-debug/CMakeFiles/ChatClient_autogen_timestamp_deps.dir
-F:/workspace/github/Qt/ChatClient/cmake-build-debug/CMakeFiles/ChatClient_autogen.dir
