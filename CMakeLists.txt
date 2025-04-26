@@ -25,7 +25,7 @@ add_subdirectory(Utility)
 add_subdirectory(CustomWidget)
 add_subdirectory(Network)
 add_subdirectory(DataBase)
-add_subdirectory(WeChat)
+add_subdirectory(NewChat)
 
 #include_directories(
 #        ${CMAKE_SOURCE_DIR}/Utility/headers  # 让 "../Utility/myapp.h" 指向这里

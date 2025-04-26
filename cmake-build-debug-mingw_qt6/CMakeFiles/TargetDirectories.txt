@@ -23,8 +23,8 @@ F:/workspace/github/ChatClient/cmake-build-debug-mingw_qt6/DataBase/CMakeFiles/e
 F:/workspace/github/ChatClient/cmake-build-debug-mingw_qt6/DataBase/CMakeFiles/rebuild_cache.dir
 F:/workspace/github/ChatClient/cmake-build-debug-mingw_qt6/DataBase/CMakeFiles/database_lib_autogen_timestamp_deps.dir
 F:/workspace/github/ChatClient/cmake-build-debug-mingw_qt6/DataBase/CMakeFiles/database_lib_autogen.dir
-F:/workspace/github/ChatClient/cmake-build-debug-mingw_qt6/WeChat/CMakeFiles/wechat_lib.dir
-F:/workspace/github/ChatClient/cmake-build-debug-mingw_qt6/WeChat/CMakeFiles/edit_cache.dir
-F:/workspace/github/ChatClient/cmake-build-debug-mingw_qt6/WeChat/CMakeFiles/rebuild_cache.dir
-F:/workspace/github/ChatClient/cmake-build-debug-mingw_qt6/WeChat/CMakeFiles/wechat_lib_autogen_timestamp_deps.dir
-F:/workspace/github/ChatClient/cmake-build-debug-mingw_qt6/WeChat/CMakeFiles/wechat_lib_autogen.dir
+F:/workspace/github/ChatClient/cmake-build-debug-mingw_qt6/NewChat/CMakeFiles/wechat_lib.dir
+F:/workspace/github/ChatClient/cmake-build-debug-mingw_qt6/NewChat/CMakeFiles/edit_cache.dir
+F:/workspace/github/ChatClient/cmake-build-debug-mingw_qt6/NewChat/CMakeFiles/rebuild_cache.dir
+F:/workspace/github/ChatClient/cmake-build-debug-mingw_qt6/NewChat/CMakeFiles/wechat_lib_autogen_timestamp_deps.dir
+F:/workspace/github/ChatClient/cmake-build-debug-mingw_qt6/NewChat/CMakeFiles/wechat_lib_autogen.dir

@@ -388,13 +388,13 @@ Vulkan_LIBRARY:FILEPATH=Vulkan_LIBRARY-NOTFOUND
 WINDEPLOYQT_EXECUTABLE:FILEPATH=D:/programfiles/Qt/Qt6/6.10.0/mingw_64/bin/windeployqt.exe
 
 //Value Computed by CMake
-WeChat_BINARY_DIR:STATIC=F:/workspace/github/ChatClient/cmake-build-debug-mingw_qt6/WeChat
+WeChat_BINARY_DIR:STATIC=F:/workspace/github/ChatClient/cmake-build-debug-mingw_qt6/NewChat
 
 //Value Computed by CMake
 WeChat_IS_TOP_LEVEL:STATIC=OFF
 
 //Value Computed by CMake
-WeChat_SOURCE_DIR:STATIC=F:/workspace/github/ChatClient/WeChat
+WeChat_SOURCE_DIR:STATIC=F:/workspace/github/ChatClient/NewChat
 
 
 ########################

@@ -7,7 +7,7 @@
 
 #include <QApplication>
 #include <QSqlDatabase>
-#include "./WeChat//headers/logindialog.h"
+#include "./NewChat//headers/logindialog.h"
 #include "Utility/headers/global.h"
 #include "./DataBase//headers/databasemgr.h"
 #include "Utility/headers/myapp.h"

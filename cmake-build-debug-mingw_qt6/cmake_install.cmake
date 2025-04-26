@@ -59,7 +59,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("F:/workspace/github/ChatClient/cmake-build-debug-mingw_qt6/WeChat/cmake_install.cmake")
+  include("F:/workspace/github/ChatClient/cmake-build-debug-mingw_qt6/NewChat/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)

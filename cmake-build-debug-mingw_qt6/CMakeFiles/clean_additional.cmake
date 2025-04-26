@@ -15,11 +15,11 @@ if("${CONFIG}" STREQUAL "" OR "${CONFIG}" STREQUAL "Debug")
   "NetWork\\CMakeFiles\\network_lib_autogen.dir\\AutogenUsed.txt"
   "NetWork\\CMakeFiles\\network_lib_autogen.dir\\ParseCache.txt"
   "NetWork\\network_lib_autogen"
+  "NewChat\\CMakeFiles\\wechat_lib_autogen.dir\\AutogenUsed.txt"
+  "NewChat\\CMakeFiles\\wechat_lib_autogen.dir\\ParseCache.txt"
+  "NewChat\\wechat_lib_autogen"
   "Utility\\CMakeFiles\\utility_lib_autogen.dir\\AutogenUsed.txt"
   "Utility\\CMakeFiles\\utility_lib_autogen.dir\\ParseCache.txt"
   "Utility\\utility_lib_autogen"
-  "WeChat\\CMakeFiles\\wechat_lib_autogen.dir\\AutogenUsed.txt"
-  "WeChat\\CMakeFiles\\wechat_lib_autogen.dir\\ParseCache.txt"
-  "WeChat\\wechat_lib_autogen"
   )
 endif()
