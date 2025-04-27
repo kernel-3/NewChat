@@ -152,7 +152,7 @@ ChatClient.exe: DataBase/libdatabase_lib.a
 ChatClient.exe: Utility/libutility_lib.a
 ChatClient.exe: CustomWidget/libcustomwidget_lib.a
 ChatClient.exe: NetWork/libnetwork_lib.a
-ChatClient.exe: NewChat/libwechat_lib.a
+ChatClient.exe: NewChat/libnewchat_lib.a
 ChatClient.exe: DataBase/libdatabase_lib.a
 ChatClient.exe: D:/programfiles/Qt/Qt6/6.10.0/mingw_64/lib/libQt6Sql.a
 ChatClient.exe: Utility/libutility_lib.a

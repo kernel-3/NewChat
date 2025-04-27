@@ -314,6 +314,15 @@ Network_IS_TOP_LEVEL:STATIC=OFF
 //Value Computed by CMake
 Network_SOURCE_DIR:STATIC=F:/workspace/github/NewChat/ChatClient/NetWork
 
+//Value Computed by CMake
+NewChat_BINARY_DIR:STATIC=F:/workspace/github/NewChat/ChatClient/cmake-build-debug/NewChat
+
+//Value Computed by CMake
+NewChat_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+NewChat_SOURCE_DIR:STATIC=F:/workspace/github/NewChat/ChatClient/NewChat
+
 //Additional directories where find(Qt6 ...) host Qt components
 // are searched
 QT_ADDITIONAL_HOST_PACKAGES_PREFIX_PATH:STRING=

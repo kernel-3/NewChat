@@ -1,10 +1,3 @@
-// #ifdef __linux__
-// #pragma message ("当前头文件搜索路径: " __FILE__)
-// #else
-// #pragma message ("当前头文件搜索路径: " __FILE__)
-// #endif
-
-
 #include <QApplication>
 #include <QSqlDatabase>
 #include "./NewChat//headers/logindialog.h"

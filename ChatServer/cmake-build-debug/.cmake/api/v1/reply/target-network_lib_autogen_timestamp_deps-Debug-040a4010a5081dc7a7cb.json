@@ -1,0 +1,34 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"NetWork/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "database_lib::@a476e4c40090e0fb63c3"
+		}
+	],
+	"id" : "network_lib_autogen_timestamp_deps::@133b84efc000a020596b",
+	"isGeneratorProvided" : true,
+	"name" : "network_lib_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "NetWork",
+		"source" : "NetWork"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

@@ -311,43 +311,43 @@ database_lib_autogen/fast:
 .PHONY : database_lib_autogen/fast
 
 #=============================================================================
-# Target rules for targets named wechat_lib
+# Target rules for targets named newchat_lib
 
 # Build rule for target.
-wechat_lib: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 wechat_lib
-.PHONY : wechat_lib
+newchat_lib: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 newchat_lib
+.PHONY : newchat_lib
 
 # fast build rule for target.
-wechat_lib/fast:
-	$(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\wechat_lib.dir\build.make NewChat/CMakeFiles/wechat_lib.dir/build
-.PHONY : wechat_lib/fast
+newchat_lib/fast:
+	$(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\newchat_lib.dir\build.make NewChat/CMakeFiles/newchat_lib.dir/build
+.PHONY : newchat_lib/fast
 
 #=============================================================================
-# Target rules for targets named wechat_lib_autogen_timestamp_deps
+# Target rules for targets named newchat_lib_autogen_timestamp_deps
 
 # Build rule for target.
-wechat_lib_autogen_timestamp_deps: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 wechat_lib_autogen_timestamp_deps
-.PHONY : wechat_lib_autogen_timestamp_deps
+newchat_lib_autogen_timestamp_deps: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 newchat_lib_autogen_timestamp_deps
+.PHONY : newchat_lib_autogen_timestamp_deps
 
 # fast build rule for target.
-wechat_lib_autogen_timestamp_deps/fast:
-	$(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\wechat_lib_autogen_timestamp_deps.dir\build.make NewChat/CMakeFiles/wechat_lib_autogen_timestamp_deps.dir/build
-.PHONY : wechat_lib_autogen_timestamp_deps/fast
+newchat_lib_autogen_timestamp_deps/fast:
+	$(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\newchat_lib_autogen_timestamp_deps.dir\build.make NewChat/CMakeFiles/newchat_lib_autogen_timestamp_deps.dir/build
+.PHONY : newchat_lib_autogen_timestamp_deps/fast
 
 #=============================================================================
-# Target rules for targets named wechat_lib_autogen
+# Target rules for targets named newchat_lib_autogen
 
 # Build rule for target.
-wechat_lib_autogen: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 wechat_lib_autogen
-.PHONY : wechat_lib_autogen
+newchat_lib_autogen: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 newchat_lib_autogen
+.PHONY : newchat_lib_autogen
 
 # fast build rule for target.
-wechat_lib_autogen/fast:
-	$(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\wechat_lib_autogen.dir\build.make NewChat/CMakeFiles/wechat_lib_autogen.dir/build
-.PHONY : wechat_lib_autogen/fast
+newchat_lib_autogen/fast:
+	$(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\newchat_lib_autogen.dir\build.make NewChat/CMakeFiles/newchat_lib_autogen.dir/build
+.PHONY : newchat_lib_autogen/fast
 
 ChatClient_autogen/EWIEGA46WW/qrc_resources.obj: ChatClient_autogen/EWIEGA46WW/qrc_resources.cpp.obj
 .PHONY : ChatClient_autogen/EWIEGA46WW/qrc_resources.obj
@@ -437,16 +437,16 @@ help:
 	@echo ... database_lib_autogen_timestamp_deps
 	@echo ... network_lib_autogen
 	@echo ... network_lib_autogen_timestamp_deps
+	@echo ... newchat_lib_autogen
+	@echo ... newchat_lib_autogen_timestamp_deps
 	@echo ... utility_lib_autogen
 	@echo ... utility_lib_autogen_timestamp_deps
-	@echo ... wechat_lib_autogen
-	@echo ... wechat_lib_autogen_timestamp_deps
 	@echo ... ChatClient
 	@echo ... customwidget_lib
 	@echo ... database_lib
 	@echo ... network_lib
+	@echo ... newchat_lib
 	@echo ... utility_lib
-	@echo ... wechat_lib
 	@echo ... ChatClient_autogen/EWIEGA46WW/qrc_resources.obj
 	@echo ... ChatClient_autogen/EWIEGA46WW/qrc_resources.i
 	@echo ... ChatClient_autogen/EWIEGA46WW/qrc_resources.s

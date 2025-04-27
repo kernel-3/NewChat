@@ -43,7 +43,7 @@ target_link_libraries(ChatClient
         utility_lib
         customwidget_lib
         network_lib
-        wechat_lib
+        newchat_lib
         Qt6::Core
         Qt6::Gui
         Qt6::Widgets

@@ -116,53 +116,77 @@ depend:
 .PHONY : depend
 
 # Convenience name for target.
-NewChat/CMakeFiles/wechat_lib.dir/rule:
-	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 NewChat/CMakeFiles/wechat_lib.dir/rule
-.PHONY : NewChat/CMakeFiles/wechat_lib.dir/rule
+NewChat/CMakeFiles/newchat_lib.dir/rule:
+	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 NewChat/CMakeFiles/newchat_lib.dir/rule
+.PHONY : NewChat/CMakeFiles/newchat_lib.dir/rule
 
 # Convenience name for target.
-wechat_lib: NewChat/CMakeFiles/wechat_lib.dir/rule
-.PHONY : wechat_lib
+newchat_lib: NewChat/CMakeFiles/newchat_lib.dir/rule
+.PHONY : newchat_lib
 
 # fast build rule for target.
-wechat_lib/fast:
-	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\wechat_lib.dir\build.make NewChat/CMakeFiles/wechat_lib.dir/build
-.PHONY : wechat_lib/fast
+newchat_lib/fast:
+	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\newchat_lib.dir\build.make NewChat/CMakeFiles/newchat_lib.dir/build
+.PHONY : newchat_lib/fast
 
 # Convenience name for target.
-NewChat/CMakeFiles/wechat_lib_autogen_timestamp_deps.dir/rule:
-	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 NewChat/CMakeFiles/wechat_lib_autogen_timestamp_deps.dir/rule
-.PHONY : NewChat/CMakeFiles/wechat_lib_autogen_timestamp_deps.dir/rule
+NewChat/CMakeFiles/newchat_lib_autogen_timestamp_deps.dir/rule:
+	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 NewChat/CMakeFiles/newchat_lib_autogen_timestamp_deps.dir/rule
+.PHONY : NewChat/CMakeFiles/newchat_lib_autogen_timestamp_deps.dir/rule
 
 # Convenience name for target.
-wechat_lib_autogen_timestamp_deps: NewChat/CMakeFiles/wechat_lib_autogen_timestamp_deps.dir/rule
-.PHONY : wechat_lib_autogen_timestamp_deps
+newchat_lib_autogen_timestamp_deps: NewChat/CMakeFiles/newchat_lib_autogen_timestamp_deps.dir/rule
+.PHONY : newchat_lib_autogen_timestamp_deps
 
 # fast build rule for target.
-wechat_lib_autogen_timestamp_deps/fast:
-	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\wechat_lib_autogen_timestamp_deps.dir\build.make NewChat/CMakeFiles/wechat_lib_autogen_timestamp_deps.dir/build
-.PHONY : wechat_lib_autogen_timestamp_deps/fast
+newchat_lib_autogen_timestamp_deps/fast:
+	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\newchat_lib_autogen_timestamp_deps.dir\build.make NewChat/CMakeFiles/newchat_lib_autogen_timestamp_deps.dir/build
+.PHONY : newchat_lib_autogen_timestamp_deps/fast
 
 # Convenience name for target.
-NewChat/CMakeFiles/wechat_lib_autogen.dir/rule:
-	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 NewChat/CMakeFiles/wechat_lib_autogen.dir/rule
-.PHONY : NewChat/CMakeFiles/wechat_lib_autogen.dir/rule
+NewChat/CMakeFiles/newchat_lib_autogen.dir/rule:
+	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 NewChat/CMakeFiles/newchat_lib_autogen.dir/rule
+.PHONY : NewChat/CMakeFiles/newchat_lib_autogen.dir/rule
 
 # Convenience name for target.
-wechat_lib_autogen: NewChat/CMakeFiles/wechat_lib_autogen.dir/rule
-.PHONY : wechat_lib_autogen
+newchat_lib_autogen: NewChat/CMakeFiles/newchat_lib_autogen.dir/rule
+.PHONY : newchat_lib_autogen
 
 # fast build rule for target.
-wechat_lib_autogen/fast:
-	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\wechat_lib_autogen.dir\build.make NewChat/CMakeFiles/wechat_lib_autogen.dir/build
-.PHONY : wechat_lib_autogen/fast
+newchat_lib_autogen/fast:
+	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\newchat_lib_autogen.dir\build.make NewChat/CMakeFiles/newchat_lib_autogen.dir/build
+.PHONY : newchat_lib_autogen/fast
+
+newchat_lib_autogen/mocs_compilation.obj: newchat_lib_autogen/mocs_compilation.cpp.obj
+.PHONY : newchat_lib_autogen/mocs_compilation.obj
+
+# target to build an object file
+newchat_lib_autogen/mocs_compilation.cpp.obj:
+	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\newchat_lib.dir\build.make NewChat/CMakeFiles/newchat_lib.dir/newchat_lib_autogen/mocs_compilation.cpp.obj
+.PHONY : newchat_lib_autogen/mocs_compilation.cpp.obj
+
+newchat_lib_autogen/mocs_compilation.i: newchat_lib_autogen/mocs_compilation.cpp.i
+.PHONY : newchat_lib_autogen/mocs_compilation.i
+
+# target to preprocess a source file
+newchat_lib_autogen/mocs_compilation.cpp.i:
+	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\newchat_lib.dir\build.make NewChat/CMakeFiles/newchat_lib.dir/newchat_lib_autogen/mocs_compilation.cpp.i
+.PHONY : newchat_lib_autogen/mocs_compilation.cpp.i
+
+newchat_lib_autogen/mocs_compilation.s: newchat_lib_autogen/mocs_compilation.cpp.s
+.PHONY : newchat_lib_autogen/mocs_compilation.s
+
+# target to generate assembly for a file
+newchat_lib_autogen/mocs_compilation.cpp.s:
+	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\newchat_lib.dir\build.make NewChat/CMakeFiles/newchat_lib.dir/newchat_lib_autogen/mocs_compilation.cpp.s
+.PHONY : newchat_lib_autogen/mocs_compilation.cpp.s
 
 sources/chatwindow.obj: sources/chatwindow.cpp.obj
 .PHONY : sources/chatwindow.obj
 
 # target to build an object file
 sources/chatwindow.cpp.obj:
-	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\wechat_lib.dir\build.make NewChat/CMakeFiles/wechat_lib.dir/sources/chatwindow.cpp.obj
+	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\newchat_lib.dir\build.make NewChat/CMakeFiles/newchat_lib.dir/sources/chatwindow.cpp.obj
 .PHONY : sources/chatwindow.cpp.obj
 
 sources/chatwindow.i: sources/chatwindow.cpp.i
@@ -170,7 +194,7 @@ sources/chatwindow.i: sources/chatwindow.cpp.i
 
 # target to preprocess a source file
 sources/chatwindow.cpp.i:
-	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\wechat_lib.dir\build.make NewChat/CMakeFiles/wechat_lib.dir/sources/chatwindow.cpp.i
+	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\newchat_lib.dir\build.make NewChat/CMakeFiles/newchat_lib.dir/sources/chatwindow.cpp.i
 .PHONY : sources/chatwindow.cpp.i
 
 sources/chatwindow.s: sources/chatwindow.cpp.s
@@ -178,7 +202,7 @@ sources/chatwindow.s: sources/chatwindow.cpp.s
 
 # target to generate assembly for a file
 sources/chatwindow.cpp.s:
-	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\wechat_lib.dir\build.make NewChat/CMakeFiles/wechat_lib.dir/sources/chatwindow.cpp.s
+	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\newchat_lib.dir\build.make NewChat/CMakeFiles/newchat_lib.dir/sources/chatwindow.cpp.s
 .PHONY : sources/chatwindow.cpp.s
 
 sources/logindialog.obj: sources/logindialog.cpp.obj
@@ -186,7 +210,7 @@ sources/logindialog.obj: sources/logindialog.cpp.obj
 
 # target to build an object file
 sources/logindialog.cpp.obj:
-	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\wechat_lib.dir\build.make NewChat/CMakeFiles/wechat_lib.dir/sources/logindialog.cpp.obj
+	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\newchat_lib.dir\build.make NewChat/CMakeFiles/newchat_lib.dir/sources/logindialog.cpp.obj
 .PHONY : sources/logindialog.cpp.obj
 
 sources/logindialog.i: sources/logindialog.cpp.i
@@ -194,7 +218,7 @@ sources/logindialog.i: sources/logindialog.cpp.i
 
 # target to preprocess a source file
 sources/logindialog.cpp.i:
-	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\wechat_lib.dir\build.make NewChat/CMakeFiles/wechat_lib.dir/sources/logindialog.cpp.i
+	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\newchat_lib.dir\build.make NewChat/CMakeFiles/newchat_lib.dir/sources/logindialog.cpp.i
 .PHONY : sources/logindialog.cpp.i
 
 sources/logindialog.s: sources/logindialog.cpp.s
@@ -202,7 +226,7 @@ sources/logindialog.s: sources/logindialog.cpp.s
 
 # target to generate assembly for a file
 sources/logindialog.cpp.s:
-	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\wechat_lib.dir\build.make NewChat/CMakeFiles/wechat_lib.dir/sources/logindialog.cpp.s
+	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\newchat_lib.dir\build.make NewChat/CMakeFiles/newchat_lib.dir/sources/logindialog.cpp.s
 .PHONY : sources/logindialog.cpp.s
 
 sources/mainwindow.obj: sources/mainwindow.cpp.obj
@@ -210,7 +234,7 @@ sources/mainwindow.obj: sources/mainwindow.cpp.obj
 
 # target to build an object file
 sources/mainwindow.cpp.obj:
-	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\wechat_lib.dir\build.make NewChat/CMakeFiles/wechat_lib.dir/sources/mainwindow.cpp.obj
+	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\newchat_lib.dir\build.make NewChat/CMakeFiles/newchat_lib.dir/sources/mainwindow.cpp.obj
 .PHONY : sources/mainwindow.cpp.obj
 
 sources/mainwindow.i: sources/mainwindow.cpp.i
@@ -218,7 +242,7 @@ sources/mainwindow.i: sources/mainwindow.cpp.i
 
 # target to preprocess a source file
 sources/mainwindow.cpp.i:
-	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\wechat_lib.dir\build.make NewChat/CMakeFiles/wechat_lib.dir/sources/mainwindow.cpp.i
+	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\newchat_lib.dir\build.make NewChat/CMakeFiles/newchat_lib.dir/sources/mainwindow.cpp.i
 .PHONY : sources/mainwindow.cpp.i
 
 sources/mainwindow.s: sources/mainwindow.cpp.s
@@ -226,32 +250,8 @@ sources/mainwindow.s: sources/mainwindow.cpp.s
 
 # target to generate assembly for a file
 sources/mainwindow.cpp.s:
-	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\wechat_lib.dir\build.make NewChat/CMakeFiles/wechat_lib.dir/sources/mainwindow.cpp.s
+	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\newchat_lib.dir\build.make NewChat/CMakeFiles/newchat_lib.dir/sources/mainwindow.cpp.s
 .PHONY : sources/mainwindow.cpp.s
-
-wechat_lib_autogen/mocs_compilation.obj: wechat_lib_autogen/mocs_compilation.cpp.obj
-.PHONY : wechat_lib_autogen/mocs_compilation.obj
-
-# target to build an object file
-wechat_lib_autogen/mocs_compilation.cpp.obj:
-	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\wechat_lib.dir\build.make NewChat/CMakeFiles/wechat_lib.dir/wechat_lib_autogen/mocs_compilation.cpp.obj
-.PHONY : wechat_lib_autogen/mocs_compilation.cpp.obj
-
-wechat_lib_autogen/mocs_compilation.i: wechat_lib_autogen/mocs_compilation.cpp.i
-.PHONY : wechat_lib_autogen/mocs_compilation.i
-
-# target to preprocess a source file
-wechat_lib_autogen/mocs_compilation.cpp.i:
-	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\wechat_lib.dir\build.make NewChat/CMakeFiles/wechat_lib.dir/wechat_lib_autogen/mocs_compilation.cpp.i
-.PHONY : wechat_lib_autogen/mocs_compilation.cpp.i
-
-wechat_lib_autogen/mocs_compilation.s: wechat_lib_autogen/mocs_compilation.cpp.s
-.PHONY : wechat_lib_autogen/mocs_compilation.s
-
-# target to generate assembly for a file
-wechat_lib_autogen/mocs_compilation.cpp.s:
-	cd /d F:\workspace\github\NewChat\ChatClient\cmake-build-debug && $(MAKE) $(MAKESILENT) -f NewChat\CMakeFiles\wechat_lib.dir\build.make NewChat/CMakeFiles/wechat_lib.dir/wechat_lib_autogen/mocs_compilation.cpp.s
-.PHONY : wechat_lib_autogen/mocs_compilation.cpp.s
 
 # Help Target
 help:
@@ -261,9 +261,12 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... wechat_lib_autogen
-	@echo ... wechat_lib_autogen_timestamp_deps
-	@echo ... wechat_lib
+	@echo ... newchat_lib_autogen
+	@echo ... newchat_lib_autogen_timestamp_deps
+	@echo ... newchat_lib
+	@echo ... newchat_lib_autogen/mocs_compilation.obj
+	@echo ... newchat_lib_autogen/mocs_compilation.i
+	@echo ... newchat_lib_autogen/mocs_compilation.s
 	@echo ... sources/chatwindow.obj
 	@echo ... sources/chatwindow.i
 	@echo ... sources/chatwindow.s
@@ -273,9 +276,6 @@ help:
 	@echo ... sources/mainwindow.obj
 	@echo ... sources/mainwindow.i
 	@echo ... sources/mainwindow.s
-	@echo ... wechat_lib_autogen/mocs_compilation.obj
-	@echo ... wechat_lib_autogen/mocs_compilation.i
-	@echo ... wechat_lib_autogen/mocs_compilation.s
 .PHONY : help
 
 
