@@ -1,2 +1,0 @@
-"E:\Program Files\CLion\bin\mingw\bin\ar.exe" qc libdatabase_lib.a CMakeFiles/database_lib.dir/database_lib_autogen/mocs_compilation.cpp.obj CMakeFiles/database_lib.dir/sources/databasemgr.cpp.obj
-"E:\Program Files\CLion\bin\mingw\bin\ranlib.exe" libdatabase_lib.a

@@ -1,2 +1,0 @@
-"E:\Program Files\CLion\bin\mingw\bin\ar.exe" qc libwechat_lib.a CMakeFiles/wechat_lib.dir/wechat_lib_autogen/mocs_compilation.cpp.obj CMakeFiles/wechat_lib.dir/sources/mainwindow.cpp.obj CMakeFiles/wechat_lib.dir/sources/logindialog.cpp.obj CMakeFiles/wechat_lib.dir/sources/chatwindow.cpp.obj
-"E:\Program Files\CLion\bin\mingw\bin\ranlib.exe" libwechat_lib.a
